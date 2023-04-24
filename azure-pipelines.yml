@@ -9,9 +9,22 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
-  steps:
+stages:
+- stage: Build
+  displayName: Build
+  jobs:
+  - job: Build
+    displayName: Build
+    steps:
     - script: dotnet build --configuration $(buildConfiguration)
       displayName: 'dotnet build $(buildConfiguration)'
+
+- stage: Deploy
+  displayName: Deploy
+  jobs:
+  - job: Deploy
+    displayName: Deploy
+    steps:
     - task: DotNetCoreCLI@2
       inputs:
         command: 'publish'
