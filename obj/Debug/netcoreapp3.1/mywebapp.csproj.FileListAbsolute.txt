@@ -40,3 +40,39 @@ C:\Users\user\Desktop\CLOUD DEVELOPMENT ASSIGNMENT\mywebapp\obj\Debug\netcoreapp
 C:\Users\user\Desktop\CLOUD DEVELOPMENT ASSIGNMENT\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.csproj.CopyComplete
 C:\Users\user\Desktop\CLOUD DEVELOPMENT ASSIGNMENT - Copy (2)\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.dll
 C:\Users\user\Desktop\CLOUD DEVELOPMENT ASSIGNMENT - Copy (2)\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.Views.dll
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.exe
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.deps.json
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.runtimeconfig.json
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.runtimeconfig.dev.json
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.dll
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.pdb
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.Views.dll
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\bin\Debug\netcoreapp3.1\mywebapp.Views.pdb
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.AssemblyInfo.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\staticwebassets\mywebapp.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.TagHelpers.input.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.TagHelpers.output.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.RazorCoreGenerate.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.Views.pdb
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.dll
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.pdb
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.genruntimeconfig.cache
+C:\Users\user\Desktop\cloud development assignment 26738497\mywebapp\obj\Debug\netcoreapp3.1\mywebapp.csproj.CopyComplete

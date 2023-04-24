@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\cloud development assignment proxy workshop9\\mywebapp\\mywebapp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\cloud development assignment 26738497\\mywebapp\\mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "C:\\Users\\user\\Desktop\\cloud development assignment proxy workshop9\\mywebapp\\mywebapp.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\cloud development assignment 26738497\\mywebapp\\mywebapp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\cloud development assignment proxy workshop9\\mywebapp\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\cloud development assignment 26738497\\mywebapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
