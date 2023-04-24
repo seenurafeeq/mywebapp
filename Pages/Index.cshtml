@@ -1,0 +1,12 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div style="background-color:#FFC0CB; padding: 50px; text-align:center;">
+    <img src="https://previews.123rf.com/images/distrologo/distrologo2001/distrologo200100193/139402932-heart-care-with-hospital-plus-sign-vector-illustration-heart-vector-icon-symbol.jpg" alt="Hospital Symbol" style="position: absolute; top: 80px; left: 80px; height: 130px;">
+    <h1 class="display-4" style="color:#ff500f; font-weight:bold;">       Welcome to the Remote Health Monitoring App</h1>
+    <p style="color:#ff900f; font-size: 20px;">Check the latest blood pressure, heart rate, and oxygen level values below:</p>
+    <iframe src="https://myfnctnappv2.azurewebsites.net/api/mycontainer/" style="border:none; width:100%; height:500px;"></iframe>
+</div>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yjfg0t/6U9nv9GxL+Xs3anP45uabUheb7c2bNCm9uezOWujLjAtbg9HstM7YeiOyhgLoQNX8ZWvF14QBq4145A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\cloud development assignment proxy workshop9\\mywebapp\\mywebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
