@@ -23,4 +23,4 @@ steps:
   inputs:
     azureSubscription: 'azurewebapp'
     appType: 'webAppLinux'
-    appName: 'webappv2'
+    appName: 'mywebappv2'
