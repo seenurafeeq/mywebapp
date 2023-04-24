@@ -20,4 +20,4 @@ pool:
       inputs:
         azureSubscription: 'azurewebapp'
         appType: 'webAppLinux'
-        appName: 'automatedplantwateringsystem'
+        appName: 'mywebappv2'
