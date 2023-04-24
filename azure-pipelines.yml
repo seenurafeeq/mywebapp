@@ -9,28 +9,18 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
-stages:
-- stage: Build
-  displayName: Build
-  jobs:
-  - job: Build
-    displayName: Build
-    steps:
-    - script: dotnet build --configuration $(buildConfiguration)
-      displayName: 'dotnet build $(buildConfiguration)'
+variables:
+  buildConfiguration: 'Release'
 
-- stage: Deploy
-  displayName: Deploy
-  jobs:
-  - job: Deploy
-    displayName: Deploy
-    steps:
-    - task: DotNetCoreCLI@2
-      inputs:
-        command: 'publish'
-        publishWebProjects: true
-    - task: AzureWebApp@1
-      inputs:
-        azureSubscription: 'azurewebapp'
-        appType: 'webAppLinux'
-        appName: 'mywebappv2'
+steps:
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'dotnet build $(buildConfiguration)'
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'publish'
+    publishWebProjects: true
+- task: AzureWebApp@1
+  inputs:
+    azureSubscription: 'azurewebapp'
+    appType: 'webAppLinux'
+    appName: 'webappv2'
